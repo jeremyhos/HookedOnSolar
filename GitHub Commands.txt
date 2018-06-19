@@ -1,0 +1,10 @@
+git config --global user.name "replacewithusername"
+git config --global user.email "replacewithemail"
+
+Git is now configured on computer
+
+git add
+git commit
+git push
+
+Modified > Staged > Commited
